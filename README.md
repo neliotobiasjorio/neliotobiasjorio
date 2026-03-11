@@ -1,4 +1,3 @@
-<img align="right" height="590em" src=""/>
 
 <h1 align="left">
 Hi 
@@ -19,7 +18,7 @@ Estudante de programação apaixonado por conhecimento.
 ## 👨‍💻 Sobre mim
 
 - 🔥 Estudante de **Sistemas de Informação**
-- 🚀 Focado em **Especialista em IA**
+- 🚀 Focado em ser **Especialista em IA**
 - 📚 Sempre estudando novas tecnologias
 - 🎯 Objetivo: trabalhar criando soluções e produtos digitais
 - 💬 Pergunte-me sobre **C, Pyhton, IA**
